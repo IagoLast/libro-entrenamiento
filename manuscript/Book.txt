@@ -15,4 +15,12 @@
 3_3_software_planificacion.md
 3_4_gestion_pagos.md
 3_5_resolucion_incidencias.md
-3_6_seguridad_privacidad.md 
+3_6_seguridad_privacidad.md
+4_0_marketing_digital.md
+4_1_marca_personal.md
+4_2_estrategias_contenido.md
+4_3_embudo_ventas.md
+4_4_publicidad_digital.md
+4_5_networking_colaboraciones.md
+4_6_optimizacion_seo.md
+4_7_conversion_ventas.md 
