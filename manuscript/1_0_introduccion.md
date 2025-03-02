@@ -1,4 +1,6 @@
-# Capítulo 1: Introducción – El auge del entrenamiento personal online
+# Capítulo 1: Introducción
+
+## El auge del entrenamiento personal online
 
 El mundo del fitness ha experimentado una transformación radical en los últimos años. Lo que antes era un sector predominantemente presencial, anclado a espacios físicos como gimnasios y centros deportivos, ha evolucionado hacia un modelo cada vez más digital y flexible. El entrenador personal, figura clave en esta industria, no ha sido ajeno a este cambio.
 
